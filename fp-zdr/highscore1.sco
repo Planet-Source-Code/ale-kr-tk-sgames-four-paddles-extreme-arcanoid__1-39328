@@ -1,0 +1,7 @@
+"sgames","1070"
+"sgames","730"
+"sgames","360"
+"sgames","80"
+"SGAMES","0"
+"SGAMES","0"
+"SGAMES","0"
